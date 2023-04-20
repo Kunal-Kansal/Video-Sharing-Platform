@@ -1,0 +1,123 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+#navLoginBar {
+  width: 100%;
+  height: 77px;
+  background: #000000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #FFFFFF00;
+  opacity: 1;
+  display: flex;
+  flex-direction: row;
+}
+
+#search {
+  margin-top: 18px;
+  margin-left: 403px;
+  width: 617px;
+  height: 41px;
+  padding-left: 22px;
+  color: white;
+  background: #191919 0% 0% no-repeat padding-box;
+  border: 1px solid #9D9C9C;
+  border-radius: 21px;
+  opacity: 1;
+}
+
+#logo {
+  margin-top: 18px;
+  margin-left: 66px;
+  width: 73px;
+  height: 38px;
+  text-align: left;
+  font: normal normal 900 28px/34px Avenir;
+  letter-spacing: 0px;
+  color: #C4B4F8;
+  opacity: 1;
+}
+
+#tologin{
+  margin-top: 26px;
+  margin-left: 256px;
+  background: #000000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #FFFFFF00;
+  opacity: 1;
+  color: azure;
+}
+
+#toregister{
+  margin-top: 26px;
+  margin-left: 16px;
+  background: #000000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #FFFFFF00;
+  opacity: 1;
+  color: azure;
+}
+#myvideos{
+  margin-top: 26px;
+  margin-left: 141px;
+  background: #000000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #FFFFFF00;
+  opacity: 1;
+  color: azure;
+}
+#upload{
+  margin-top: 26px;
+  margin-left: 16px;
+  background: #000000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #FFFFFF00;
+  opacity: 1;
+  color: azure;
+}
+#stick {
+  margin-top: 26px;
+  margin-left: 10px;
+  background: #000000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #FFFFFF00;
+  opacity: 1;
+  color: azure;
+}
+#SignOut{
+  margin-top: 26px;
+  margin-left: 16px;
+  background: #000000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #FFFFFF00;
+  opacity: 1;
+  color:  #FF1A1A;
+}
